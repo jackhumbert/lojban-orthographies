@@ -1,0 +1,12 @@
+@import url(//jackhumbert.github.io/zbalermorna/test/css/lato-zlm-extended.css?v=2);
+@import url(//jackhumbert.github.io/zbalermorna/test/css/fira-code.css?v=2);
+
+body {
+    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif, 'lato-zlm-extended';
+}
+code {
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace, "fira-code-zlm";
+}
+::placeholder, body, button, input, select, textarea {
+    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif, 'lato-zlm-extended';
+}
