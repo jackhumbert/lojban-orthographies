@@ -1,14 +1,15 @@
 @import url(//jackhumbert.github.io/zbalermorna/test/css/lato-zlm-extended.css?v=2);
 @import url(//jackhumbert.github.io/zbalermorna/test/css/fira-code.css?v=2);
+@import url(//jackhumbert.github.io/zbalermorna/test/css/crisa.css?v=2);
 @import url(//jackhumbert.github.io/ciblerpau/font.css?v=2);
 @import url(//jackhumbert.github.io/dreluhu/font.css?v=2);
 
 body {
-    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif, 'lato-zlm-extended', 'ciblerpau', 'dreluhu';
+    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif, 'crisa', 'lato-zlm-extended', 'ciblerpau', 'dreluhu';
 }
 code {
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace, "fira-code-zlm", 'ciblerpau', 'dreluhu';
 }
 ::placeholder, body, button, input, select, textarea {
-    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif, 'lato-zlm-extended', 'ciblerpau', 'dreluhu';
+    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif, 'crisa', 'lato-zlm-extended', 'ciblerpau', 'dreluhu';
 }
