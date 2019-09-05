@@ -4,11 +4,11 @@
 @import url(//jackhumbert.github.io/dreluhu/font.css?v=2);
 
 body {
-    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif, 'crisa', 'ciblerpau', 'dreluhu';
+    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif, 'crisa', 'ciblerpau', 'Dreluhu', 'dreluhu';
 }
 code {
-    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace, "fira-code-zlm", 'ciblerpau', 'dreluhu';
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace, "fira-code-zlm", 'ciblerpau', 'Dreluhu', 'dreluhu';
 }
 ::placeholder, body, button, input, select, textarea {
-    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif, 'crisa', 'ciblerpau', 'dreluhu';
+    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif, 'crisa', 'ciblerpau', 'Dreluhu', 'dreluhu';
 }
