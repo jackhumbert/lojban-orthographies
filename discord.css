@@ -1,13 +1,13 @@
 @import url(//jackhumbert.github.io/zbalermorna/assets/css/fonts.css);
 @import url(//jackhumbert.github.io/ciblerpau/font.css?v=2);
-@import url(//jackhumbert.github.io/dreluhu/font.css?v=2);
+@import url(//jackhumbert.github.io/dreluhu/fonts.css);
 
 body {
-    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif, 'crisa', 'ciblerpau', 'dreluhu';
+    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif, 'crisa', 'ciblerpau', 'Dreluhu Future';
 }
 code {
-    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace, "fira-code-zlm", 'ciblerpau', 'dreluhu';
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace, "fira-code-zlm", 'ciblerpau', 'Dreluhu Future';
 }
 ::placeholder, body, button, input, select, textarea {
-    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif, 'crisa', 'ciblerpau', 'dreluhu';
+    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif, 'crisa', 'ciblerpau', 'Dreluhu Future';
 }
